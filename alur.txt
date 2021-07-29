@@ -1,0 +1,20 @@
+[24/7 17:09] Heusch: Admin =
+1. Mengelola data akademik
+2. Mengelola data Dosen Tugas Akhir beserta hak akses
+3.mengelola data dosen pembimbing dan dosen penguji
+4.mengelola pengajuan Judul.
+5. Mengelola penjadwalan Seminar & sidang Ta.
+6.melihat hasil seminar & sidang ta
+
+Kaprodi=
+1. Mengelola data pengajuan judul mahasiswa
+2.Mengelola data penjadwalan Seminar & sidang Ta
+3.melihat hasil seminar & sidang ta
+[24/7 17:09] Heusch: Dosen =
+ 1. menyetujui/menolak pengajuan judul
+2. Melakukan bimbingan proposal
+3. melakukan bimbingan tugas akhir
+
+Dosen penguji = 
+1. memantau jadwal uji uang telah ditentukan
+2. memberikan nilai kepada mahasiswa yang di uji
